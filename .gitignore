@@ -1,0 +1,13 @@
+*.db
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+.vs/Section_02/v16/
+BullCowGame/x64/Debug/
+*.ilk
+*.pdb
+
+BullCowGame/BullCow_14.cpp
+BullCowGame/BullCow_16.cpp
+BullCowGame/BullCow Algorithm.txt
+BullCowGame.docx
